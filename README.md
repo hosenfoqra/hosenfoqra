@@ -1,6 +1,5 @@
  ![Screenshot 1](assets/main.gif)
 
-
 I'm an experienced **Video Editor**, **Videographer**, and **QA Engineer** with expertise in **storytelling**, **software testing**, and **technical support**. I specialize in creating dynamic, high-quality content and delivering user-centric solutions. With proficiency in tools like **Premiere Pro**, **After Effects**, **Selenium**, **React**, and **Spring Boot**, I strive for excellence in everything I do.
 
 > **_“Striving for excellence in every project!”_**
