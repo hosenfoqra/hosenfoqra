@@ -1,11 +1,12 @@
-# Hello, I'm Hosen Foqra 👋
+ ![Screenshot 1](assets/main.gif)
+
 
 I'm an experienced **Video Editor**, **Videographer**, and **QA Engineer** with expertise in **storytelling**, **software testing**, and **technical support**. I specialize in creating dynamic, high-quality content and delivering user-centric solutions. With proficiency in tools like **Premiere Pro**, **After Effects**, **Selenium**, **React**, and **Spring Boot**, I strive for excellence in everything I do.
 
 > **_“Striving for excellence in every project!”_**
 
 ## 🚀 My Digital Services
-
+ - **Software Testing**: Ensuring software quality through manual and automated testing using Selenium, JMeter, MTM, Xray, and Jira. Experienced in defect tracking, test management, and troubleshooting.
 - **UI/UX Design**: Crafting intuitive UI/UX designs in **Figma** for user-friendly apps.
 - **Graphic Design**: Designing creative visuals and graphics for various purposes.
 - **Web Development**: Building dynamic websites and backend systems with a focus on performance and scalability using **Spring Boot**.
@@ -16,7 +17,6 @@ I'm an experienced **Video Editor**, **Videographer**, and **QA Engineer** with 
 ---
 
 ## 🧠 Technologies & Tools
-
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,13 +25,18 @@ I'm an experienced **Video Editor**, **Videographer**, and **QA Engineer** with 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" /></div>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,ae,androidstudio,c,cpp,cs,eclipse,figma,idea,linux,mongodb,ps,php,postman,pr,unity,vscode)](https://skillicons.dev)
+
 ---
 
 ## 📚 Education
 
-- **Ad Haifa College**: _Diploma of Practical Software Engineering (with distinction)_
+- **Atid Haifa College**: _Diploma of Practical Software Engineering (with distinction)_
 - **Bar-Ilan University**: _Certificate in Quality Assurance (QA)_
 - **MakeGamesJLM**: _Certificate in Unity Game Development_
+- **MindoLife**: _Certificate in Spring Boot_
 
 ---
 
@@ -48,7 +53,6 @@ I'm an experienced **Video Editor**, **Videographer**, and **QA Engineer** with 
 
 - **[Portfolio](https://hosenfoqra.github.io/portfolio/)**
 - **[LinkedIn](https://www.linkedin.com/in/hosen-foqra/)**
-- **[GitHub](https://github.com/hosenfoqra)**
 
 ---
 
